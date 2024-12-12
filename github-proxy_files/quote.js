@@ -84,7 +84,7 @@
   }
   !(function () {
     if (!i || "false" === i || "0" === i) return 1;
-    var e = "*.gh.vw50.ggff.net,*.ghproxy.cn".split(",");
+    var e = "*.gh.emoo.us.kg,*.ghproxy.cn".split(",");
     if (e.length)
       for (var t = e.length - 1; 0 <= t; t--)
         if (
